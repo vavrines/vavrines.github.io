@@ -11,6 +11,8 @@ tags:
 
 ## Open-source softwares & libraries
 
-Kinetic.jl: theoretical and numerical implementations towards the kinetic theory of gases, photons, plasmas and neutrons [[Link]](https://github.com/vavrines/Kinetic.jl)
+[Kinetic.jl](https://github.com/vavrines/Kinetic.jl): theoretical and numerical implementations towards the kinetic theory of gases, photons, plasmas and neutrons
+
+[SKS.jl](https://github.com/vavrines/SKS.jl): stochastic kinetic scheme for the study of uncertainty quantification
 
 Unified gas-kinetic scheme: [complete set](https://github.com/vavrines/UGKS) and extracted [flux function](https://github.com/vavrines/UGKSFlux)
