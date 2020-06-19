@@ -13,11 +13,9 @@ tags:
 
 Mathematical symbols in Latex [[PDF]](https://tbxiao.github.io/documents//latex-math.pdf)
 
+One-page Linux command reference [[PDF]](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
 All-in-one Git commands [[JPG]](https://tbxiao.github.io/img//git.jpg)
-
-[Spack](https://spack.io/): a scientific computing manager for supercomputers
-
-[codecogs](https://www.codecogs.com/latex/eqneditor.php): online LaTex generator (compatible with GitHub)
 
 ## Fluid and Kinetic Theory
 
@@ -33,7 +31,11 @@ MIT 18.337: Parallel Computing and Scientific Machine Learning [[Link]](https://
 
 Preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.github.io/documents//understand-uq.pdf)
 
-## Softwares and Packages
+## Software
 
-Staggered grid Radiation Moment Approximation (StaRMAP): a numerical scheme for the study of spherical harmonics moment systems [[link]](https://www.math.temple.edu/~seibold/research/starmap/)
+[Spack](https://spack.io/): a scientific computing manager for supercomputers
+
+[codecogs](https://www.codecogs.com/latex/eqneditor.php): online LaTex generator (compatible with GitHub)
+
+Staggered grid Radiation Moment Approximation [[StaRMAP]](https://www.math.temple.edu/~seibold/research/starmap/): a numerical scheme for the study of spherical harmonics moment systems
 
