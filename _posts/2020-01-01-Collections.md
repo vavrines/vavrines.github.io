@@ -33,4 +33,7 @@ MIT 18.337: Parallel Computing and Scientific Machine Learning [[Link]](https://
 
 Preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.github.io/documents//understand-uq.pdf)
 
+## Softwares and Packages
+
+Staggered grid Radiation Moment Approximation (StaRMAP): a numerical scheme for the study of spherical harmonics moment systems [[link]](https://www.math.temple.edu/~seibold/research/starmap/)
 
