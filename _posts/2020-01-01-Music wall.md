@@ -8,11 +8,11 @@ tags:
   - music
 ---
 
-I told Martin I really enjoy the life here, enjoy the feeling to be put into the atmosphere where everyone is speaking a totally different language which I cannot understand, so I can concentrate on what I'm really interested in.    
-我不知道他是否真的理解这种感受，但早晨的第一缕阳光注射入校车的时候，明丽的烫金色是平静小城的颜色，我也真的相信是如此。
+A collection of albums and EPs.  
+Maybe useful for finishing of wall.
 
 <center class="half">
-    <img src="https://i.postimg.cc/4Nv9FzsK/20190817-IMG-3637.jpg" width="250"/>
+    <img src="https://img9.doubanio.com/view/subject/m/public/s28810382.jpg" width="250"/>
     <img src="https://i.postimg.cc/mrQr6H99/s11187340.jpg" width="250"/>
     <img src="https://img9.doubanio.com/view/subject/m/public/s11363103.jpg" width="250"/>
     <img src="https://i.postimg.cc/zGGMQZRF/s11174008.jpg" width="250"/>
