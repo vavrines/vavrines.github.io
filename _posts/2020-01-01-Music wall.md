@@ -12,11 +12,8 @@ I told Martin I really enjoy the life here, enjoy the feeling to be put into the
 我不知道他是否真的理解这种感受，但早晨的第一缕阳光注射入校车的时候，明丽的烫金色是平静小城的颜色，我也真的相信是如此。
 
 <center class="half">
-    <img src="https://i.postimg.cc/4Nv9FzsK/20190817-IMG-3637.jpg" width="350"/>
-    <img src="https://i.postimg.cc/ZYBPjBW3/20190817-IMG-3679.jpg" width="350"/>
-</center>
-
-<center class="half">
-    <img src="https://i.postimg.cc/BnM1J484/20190817-IMG-3677.jpg" width="350"/>
-    <img src="https://i.postimg.cc/dVqyMLV5/20190817-IMG-3666.jpg" width="350"/>
+    <img src="https://i.postimg.cc/4Nv9FzsK/20190817-IMG-3637.jpg" width="200"/>
+    <img src="https://i.postimg.cc/ZYBPjBW3/20190817-IMG-3679.jpg" width="200"/>
+    <img src="https://i.postimg.cc/BnM1J484/20190817-IMG-3677.jpg" width="200"/>
+    <img src="https://i.postimg.cc/dVqyMLV5/20190817-IMG-3666.jpg" width="200"/>
 </center>
