@@ -1,6 +1,6 @@
 ---
 title: 感受
-excerpt: 随想集
+excerpt: 清醒集
 author: hsiao
 options: [minihead]
 categories: blog

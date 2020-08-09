@@ -1,6 +1,6 @@
 ---
 title: 秋天别来
-excerpt: 随想集
+excerpt: 清醒集
 author: hsiao
 options: [minihead]
 categories: blog
