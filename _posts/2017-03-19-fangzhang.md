@@ -1,6 +1,6 @@
 ---
 title: 方丈
-excerpt: 旧事集
+excerpt: 清醒集
 author: hsiao
 options: [minihead]
 categories: blog

@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: Collections
-excerpt: collection of manuscripts
+excerpt: 零散集
 categories: portfolio
 background-image: hanaba.png
 tags:

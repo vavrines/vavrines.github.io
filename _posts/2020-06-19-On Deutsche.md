@@ -1,7 +1,7 @@
 ---
 priority: 0.6
-title: On Deutsche
-excerpt: collection of materials
+title: Deutsche
+excerpt: learning materials
 categories: portfolio
 background-image: hanaba.png
 tags:

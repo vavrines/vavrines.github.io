@@ -1,6 +1,6 @@
 ---
 title: 夏日雨水
-excerpt: 旧事集
+excerpt: 清醒集
 author: hsiao
 options: [minihead]
 categories: blog
