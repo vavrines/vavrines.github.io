@@ -8,7 +8,9 @@ tags:
   - music
 ---
 
-A collection of albums and EPs, maybe useful for furnishing wall : )
+A collection of albums and EPs, maybe useful for furnishing wall for a bedroom :-x
+
+<iframe src="//player.bilibili.com/player.html?aid=90614147&bvid=BV127411w7mZ&cid=154745985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <center class="half">
     <img src="https://i.postimg.cc/mrQr6H99/s11187340.jpg" width="250"/>
