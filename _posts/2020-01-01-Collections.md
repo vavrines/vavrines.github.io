@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: Collections
-excerpt: 零散集
+excerpt: research-wise
 categories: portfolio
 background-image: hanaba.png
 tags:
