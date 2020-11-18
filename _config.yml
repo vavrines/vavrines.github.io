@@ -1,6 +1,5 @@
 # Welcome to Jekyll!
 
-
 # In addition to these settings, there is a file _data/tokens-template.yml
 # that you'll want to customize for your site. It's named 'tokens' because
 # that was it's original purpose, but because tokens.yml is .gitexcluded, it's
@@ -16,7 +15,7 @@ description: Tianbai Xiao
 owner:
   name: Tianbai Xiao
   url: "http://xiaotianbai.com" # your URL
-first_published: 2020 # if migrating another site, the year of your first publish
+first_published: 2017 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://xiaotianbai.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,8 +27,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Tianbai Xiao  
-  text: Applied Mathematics / Amateur Photography / Literary Criticism / Prose
+  title: Greetings  
+  text: My name is Tianbai. I know very little about anything, I’m working on physics, programming and fine arts. I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me.
 # - displayed at the bottom
 closing-head: 和光同尘
 closing-para: softens the glare, unifies with the mundane
