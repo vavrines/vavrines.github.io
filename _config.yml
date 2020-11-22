@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Greetings  
-  text: My name is Tianbai. I know very little about anything, I’m working on physics, programming and fine arts. I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me. I feel like I'm a pure oriental, from bones and soul.
+  text: My name is Tianbai. I know very little about anything, while I’m working on physics, programming and fine arts. I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me. I feel like I'm a pure oriental, from bones and soul.
 # - displayed at the bottom
 closing-head: 和光同尘
 closing-para: Reclining in the afternoon, I draw my nets of sadness over your oceanic eyes
