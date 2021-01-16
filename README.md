@@ -1,7 +1,6 @@
 # xiaotianbai.com
 
-Personal website cloned from [@ajlkn](https://github.com/arkadianriver), which uses the awesome design of http://html5up.net/spectral by
-the talented [@ajlkn](http://twitter.com/ajlkn).
+Personal website cloned from [@ajlkn](https://github.com/arkadianriver) with the awesome design of http://html5up.net/spectral.
 
 I morphed that design into this Jekyll [theme](#theme-note) for blog and portfolio entries.
 [Jekyll](https://jekyllrb.com) is a static site generator, which
@@ -86,4 +85,3 @@ This is a theme in the old sense of the word. This is not a newer _gem-based_ th
 
 ## License
 MIT
-
