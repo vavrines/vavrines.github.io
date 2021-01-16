@@ -15,6 +15,8 @@ Mathematical symbols in Latex [[PDF]](https://tbxiao.github.io/documents//latex-
 
 One-page Linux command reference [[PDF]](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
+Choose your Linux distribution via [questionnaire](https://distrochooser.de/en/)
+
 All-in-one Git commands [[JPG]](https://tbxiao.github.io/img//git.jpg)
 
 ## Fluid and Kinetic Theory
