@@ -27,18 +27,32 @@ Clément Mouhot: On the Linear Boltzmann Equation [[PDF]](https://cmouhot.files.
 
 MIT 18.337: Parallel Computing and Scientific Machine Learning [[Link]](https://mitmath.github.io/18337/)
 
-## UQ
+## Uncertainty Quantification
 
 Preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.github.io/documents//understand-uq.pdf)
 
-## Software
+## Widgets
 
-[Spack](https://spack.io/): a scientific computing manager for supercomputers
+[codecogs](https://www.codecogs.com/latex/eqneditor.php): online LaTex equation generator
 
-[codecogs](https://www.codecogs.com/latex/eqneditor.php): online LaTex generator (compatible with GitHub)
+[Pandoc](https://pandoc.org/index.html): a universal document converter
 
-Staggered grid Radiation Moment Approximation [[StaRMAP]](https://www.math.temple.edu/~seibold/research/starmap/): a numerical scheme for the study of spherical harmonics moment systems
+## Scientific Softwares
 
-[Mechsys](http://mechsys.nongnu.org): Muti-Physics Simulation Library
+[Spack](https://spack.io/): scientific computing manager for supercomputers
 
-[MECCA](http://www.rolf-sander.net/messy/mecca/): Module Efficiently Calculating the Chemistry of the Atmosphere
+[OpenFOAM](https://openfoam.org/): computational fluid dynamics platform
+
+[SU2](https://su2code.github.io/): multiphysics simulation and design software
+
+[PyFR](http://www.pyfr.org/): Python based framework for solving advection-diffusion type problems using the flux reconstruction method
+
+[Clawpack](https://www.clawpack.org/): conservation laws package
+
+[StaRMAP](https://www.math.temple.edu/~seibold/research/starmap/): staggered grid radiation moment approximation scheme
+
+[Mechsys](http://mechsys.nongnu.org): muti-physics simulation Library
+
+[MECCA](http://www.rolf-sander.net/messy/mecca/): module efficiently calculating the chemistry of the atmosphere
+
+[OpenMC](http://web.mit.edu/smharper/www/): Monte-Carlo particle transport code
