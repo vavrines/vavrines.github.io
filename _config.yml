@@ -15,7 +15,7 @@ description: Tianbai Xiao
 owner:
   name: Tianbai Xiao
   url: "http://xiaotianbai.com" # your URL
-first_published: 2020 # if migrating another site, the year of your first publish
+first_published: 2021 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://xiaotianbai.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +27,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Greetings  
+  title: Hello  
   text: My name is Tianbai. I know very little about anything, while I’m working on physics, programming and fine arts. I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me. I feel like I'm a pure oriental, from bones and soul.
 # - displayed at the bottom
 closing-head: 和光同尘
