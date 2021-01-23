@@ -2,7 +2,7 @@
 
 # If you want to use Google analytics to monitor your site traffic,
 # register your site https://www.google.com/analytics/standard/
-google-analytics: <google-analytics tracking ID>
+google-analytics: <UA-109883246-1>
 
 # Specify your mail form action, whether it be cgiemail, PHP, whatever
 # If you choose to use these provided scripts and you're also using a site
