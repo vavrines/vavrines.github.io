@@ -6,6 +6,8 @@
 
 (function($) {
 
+	gtag('config', 'UA-109883246-2');
+
 	skel
 		.breakpoints({
 			xlarge:	'(max-width: 1680px)',
