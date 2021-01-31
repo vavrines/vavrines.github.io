@@ -6,7 +6,8 @@ session_start();
 $code=sprintf('%04d',rand(0,9999));
 $_SESSION["code"]=$code;
 $im = imagecreatetruecolor(50, 24);
-$bg = imagecolorallocate($im, 22, 192, 212); // background color cyan
+$bg = imagecolorallocate($im, 77, 81, 57); // background color cyan
+//$bg = imagecolorallocate($im, 22, 192, 212); // background color cyan
 $fg = imagecolorallocate($im, 55, 55, 55);   // text color gray
 imagefill($im, 0, 0, $bg);
 imagestring($im, 5, 5, 5,  $code, $fg);
