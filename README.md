@@ -2,7 +2,7 @@
 
 Personal website cloned from [@ajlkn](https://github.com/arkadianriver) with the awesome design of http://html5up.net/spectral.
 
-I morphed that design into this Jekyll [theme](#theme-note) for blog and portfolio entries.
+I morphed that design into this Jekyll [theme](#theme-note) for different entries including research, teaching, portfolio, etc.
 [Jekyll](https://jekyllrb.com) is a static site generator, which
 uses templates to generate all the publishable content as static
 HTML files (as opposed to something like WordPress, which has files that pull
