@@ -1606,7 +1606,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style2 {
 			//background-color: _palette(bg);
-			background-color: rgba(1,1,1,0.9);
+			background-color: rgba(40,40,40,0.9);
 		}
 
 		&.style3 {
@@ -1675,7 +1675,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
 		//background: _palette(accent1, bg);
-		background: rgb(1, 1, 1);
+		background: rgb(40, 40, 40);
 		color: _palette(accent1, fg-bold);
 		height: 100%;
 		max-width: 80%;
