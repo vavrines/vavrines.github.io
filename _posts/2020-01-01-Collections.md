@@ -21,6 +21,15 @@ All-in-one Git commands [[JPG]](https://tbxiao.github.io/img//git.jpg)
 
 ## Fluid and Kinetic Theory
 
+[CFD2030](http://www.cfd2030.com/index.html)
+
+- Emphasis on physics-based, predictive modeling 
+- Management of errors and uncertainties
+- Automation in all steps of the analysis process
+- Harness exascale HPC architectures
+- Flexibility to tackle capability- and capacity-computing tasks in both industrial and research environments
+- Seamless integration with multidisciplinary analyses
+
 Antony Jameson: [computational fluid dynamics past present and future](https://tbxiao.github.io/documents//jameson-cfd.pdf)
 
 Clément Mouhot: On the Linear Boltzmann Equation [[PDF]](https://cmouhot.files.wordpress.com/2010/01/chapter4.pdf)
