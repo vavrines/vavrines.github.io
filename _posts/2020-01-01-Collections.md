@@ -9,6 +9,10 @@ tags:
   - notes
 ---
 
+## Hello
+
+Decide if a quote is generated from a real Stoic philosopher or using GPT3: https://www.stoic.today/
+
 ## General
 
 Mathematical symbols in Latex [[PDF]](https://tbxiao.github.io/documents//latex-math.pdf)
@@ -21,7 +25,7 @@ All-in-one Git commands [[JPG]](https://tbxiao.github.io/img//git.jpg)
 
 ## Fluid and Kinetic Theory
 
-[CFD2030](http://www.cfd2030.com/index.html)
+Objectives of [CFD2030](http://www.cfd2030.com/index.html)
 
 - Emphasis on physics-based, predictive modeling 
 - Management of errors and uncertainties
