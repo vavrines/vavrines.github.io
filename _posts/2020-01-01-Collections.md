@@ -11,7 +11,7 @@ tags:
 
 ## Hello
 
-Decide if a quote is generated from a real Stoic philosopher or using GPT3: https://www.stoic.today/
+Decide if a quote is generated from a real Stoic philosopher or GPT3: [stoic.today](https://www.stoic.today/)
 
 ## General
 
@@ -36,15 +36,15 @@ Objectives of [CFD2030](http://www.cfd2030.com/index.html)
 
 Antony Jameson: [computational fluid dynamics past present and future](https://tbxiao.github.io/documents//jameson-cfd.pdf)
 
-Clément Mouhot: On the Linear Boltzmann Equation [[PDF]](https://cmouhot.files.wordpress.com/2010/01/chapter4.pdf)
+Clément Mouhot: [On the Linear Boltzmann Equation](https://cmouhot.files.wordpress.com/2010/01/chapter4.pdf)
 
 ## Machine Learning
 
-MIT 18.337: Parallel Computing and Scientific Machine Learning [[Link]](https://mitmath.github.io/18337/)
+MIT 18.337: [Parallel Computing and Scientific Machine Learning](https://mitmath.github.io/18337/)
 
 ## Uncertainty Quantification
 
-Preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.github.io/documents//understand-uq.pdf)
+My preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.github.io/documents//understand-uq.pdf)
 
 ## Widgets
 
@@ -53,6 +53,8 @@ Preliminary understanding of uncertainty quantification [[PDF]](https://tbxiao.g
 [Pandoc](https://pandoc.org/index.html): a universal document converter
 
 ## Scientific Softwares
+
+[John Burkardt](https://people.sc.fsu.edu/~jburkardt/): scientific computing source codes
 
 [Spack](https://spack.io/): scientific computing manager for supercomputers
 
