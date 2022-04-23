@@ -104,7 +104,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Recent Posts
+  blog__title: Blog
   blog__description:
 
 
