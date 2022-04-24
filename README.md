@@ -1,8 +1,8 @@
-# vavrines.github.io
+# xiaotianbai.com
 
-personal website
+Personal website adapted from the Jekyll theme.
 
+To build the website locally: 
 ```
 bundle exec jekyll serve
 ```
-
