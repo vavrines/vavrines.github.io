@@ -3,8 +3,8 @@ layout: post
 title:  夏日雨水
 description: 清醒集
 date:   2018-07-27
-image:  '/images/(66).png'
-tags:   [personal]
+image:  'https://s2.loli.net/2022/04/24/8EbRoCT5ju3aGWQ.jpg'
+tags:   [travel]
 ---
 
 苏味道：  

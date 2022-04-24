@@ -2,31 +2,45 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: 
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+![](../images/xiao.jpg)
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+My name is Tianbai. I know very little about anything, while I’m working on physics, programming and fine arts.
+I create pieces which solve the problems there. Often the problems are themselves caused by other pieces, which were also written by me.
+I feel like I'm a pure oriental from bones.
+
+I'm currently a research associate at Karlsruhe Institute of Technology, Germany.
+In may daily work, I play with applied mathematics, with a special focus on fluid mechanics.
+I teach courses and supervise students on kinetic theory and high-performance computing.
+Before I came to Karlsruhe, I was a Ph.D. student at Peking University and a research assistant at Hong Kong University of Science and Technology.
+You can find a full list of my research outcome [here](https://xiaotianbai.com/project/research).
+I'm also reachable on <a href='https://scholar.google.com/citations?user=wFTQeXwAAAAJ&hl=en'>Google Scholar</a> and <a href='https://www.researchgate.net/profile/Tianbai_Xiao'>ResearchGate</a>.
+
+Some skills that I'm interested and probably have mastered:
+<ul>
+    <li>Julia/Python: ★★★★★</li>
+    <li>C/C++/Fortran: ★★★★</li>
+    <li>MPI/OpenMP/CUDA: ★★★★</li>
+    <li>Paraview/Tecplot: ★★★★</li>
+    <li>Linux: ★★★★☆</li>
+    <li>Ansys/Autodesk: ★★★</li>
+    <li>Illustrator: ★★★★★</li>
+    <li>Photoshop: ★★★★</li>
+    <li>English: ★★★★★</li>
+    <li>German: ★★☆</li>
+</ul>
+
+I'm an enthusiast of Debussy. Sometimes I do photography. I benefited a lot from the work of Hiroshi Sugimoto and Yoshihiko Ueda.
+
+Write me an <a href='mailto:i@txiao.cc'>email</a> if you are interested in anything about me.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/sea.jpg" loading="lazy">
+    <img src="/images/sunflower.jpg" loading="lazy">
+    <img src="/images/fish.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.

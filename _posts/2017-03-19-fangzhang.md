@@ -3,7 +3,7 @@ layout: post
 title:  方丈
 description: 清醒集
 date:   2017-03-19
-image:  '/images/(66).png'
+image:  'https://s2.loli.net/2022/04/24/2dQk4JlrLaAmnCO.jpg'
 tags:   [personal]
 ---
 
