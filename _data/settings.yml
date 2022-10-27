@@ -37,9 +37,9 @@ author:
   author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/vavrines"}
 - {icon: "ion-logo-github", link: "https://github.com/vavrines"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/vavrines"}
+- {icon: "ion-logo-twitter", link: "https://txiao.notion.site/Murmur-d24064bcbd09468096349055ffa0439d"}
 
 #-------------------------------
 # Hero Settings
