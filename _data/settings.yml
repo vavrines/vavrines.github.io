@@ -33,7 +33,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Tianbai Xiao
-  author__bio: Computational physics
+  author__bio:
   author__avatar: '/images/01.jpg'
 
 social:
@@ -45,7 +45,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Tianbai Xiao
-  hero__description: Working to create pieces in computational physics, programming and fine arts. Enthusiast of Debussy. Sometimes I do photography.
+  hero__description: Mathematics / Photography / Debussy / Belles Lettres / Programming
   hero__image: '/images/leaf.jpg'
 
 
