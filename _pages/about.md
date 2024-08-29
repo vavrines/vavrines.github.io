@@ -5,7 +5,9 @@ permalink: /about/
 image: 
 ---
 
-![](../images/xiao.jpg)
+<div align="center">
+  <img src="../images/xiao.jpg" alt="drawing" width="250"/>
+</div>
 
 Hi there!
 
