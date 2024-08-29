@@ -6,7 +6,7 @@ image:
 ---
 
 <div align="center">
-  <img src="../images/xiao.jpg" alt="drawing" width="350"/>
+  <img src="../images/xiao.jpg" alt="drawing" width="400"/>
 </div>
 
 Hi there!
