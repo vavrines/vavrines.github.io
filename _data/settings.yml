@@ -45,7 +45,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Tianbai Xiao
-  hero__description: You seem to have stumbled upon a page about Math / Physics / Programming / Photography / Belles Lettres / Movies
+  hero__description: “馬子唄の鈴鹿越ゆるや春の雨。” &nbsp —— &nbsp 夏目漱石<br> About First Principles / Computational Supremacy / Amateur Photography / Belles Lettres / Modernism
   hero__image: '/images/leaf.jpg'
 
 
