@@ -35,7 +35,7 @@ What I'm interested in and learning these days:
     <li>Microeconomics</li>
 </ul>
 
-Write me an <a href='mailto:i@txiao.cc'>email</a> if you are interested in anything.
+Write me an <a href='mailto:i@xiaotianbai.com'>email</a> if you are interested in anything.
 
 <div class="gallery-box">
   <div class="gallery">
