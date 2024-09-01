@@ -45,7 +45,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Tianbai Xiao
-  hero__description: “馬子唄の鈴鹿越ゆるや春の雨。” &nbsp —— &nbsp 夏目漱石<br> About First Principles / Computational Supremacy / Amateur Photography / Belles Lettres / Modernism
+  hero__description: “馬子唄の鈴鹿越ゆるや春の雨。” <br>&nbsp ——夏目漱石<br><br> About First Principles / Computational Supremacy / <br> Amateur Photography / Belles Lettres / Modernism
   hero__image: '/images/leaf.jpg'
 
 
