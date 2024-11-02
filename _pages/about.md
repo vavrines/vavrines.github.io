@@ -43,7 +43,7 @@ image:
     Altman's blog</a></li>
   <li>Taking pictures with Shōji Ueda's mindset, <a
     href="https://placartphoto.com/book/4067/warabe_goyomi_-_children_the_year_around">植田正治,
-    小传记》</a></li>
+    《小传记》</a></li>
   <li>Why China produces cybersecurity experts</li>
   <li>Microeconomics as a many-agent system, <a
     href="https://publications.rwth-aachen.de/record/712359/files/712359.pdf">Torsten Trimborn's
