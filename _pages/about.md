@@ -11,24 +11,56 @@ image:
 
 <br/>
 
-**Some things you might want to know**
+**Things you might want to know**
 <ul>
-  <li>1992 Born in Hefei / 2019 Graduated from Peking University / Lives in Beijing</li>
-  <li>I'm currently doing some research on living at the Chinese Academy of Sciences.
-  A not-so-long list of my research results (<i>focus is the last thing I can do</i>) can be found on <a href='https://scholar.google.com/citations?user=wFTQeXwAAAAJ&hl=en'>Google Scholar</a> and <a href='https://www.researchgate.net/profile/Tianbai_Xiao'>ResearchGate</a>.</li>
-  <li>I play applied and computational math. I create pieces that solve the problems there. Often the problems are themselves caused by other pieces, which were also created by me. It's fair to say I know very little about anything.</li>
-  <li>I'm an enthusiast of Tchaikovsky and Debussy. Sometimes I do photography. I benefited a lot from the work of Hiroshi Sugimoto and Yoshihiko Ueda. I'm addicted to <a href='https://en.wikipedia.org/wiki/Li_Juan_(author)'>Li Juan</a> lately.</li>
-  <li>Studying and working in Europe (mostly Germany) changed me forever, but the more I realize that I am a pure oriental from bones.</li>
+  <li>Born in Hefei / Graduated with a Ph.D. from Peking University / Lives in Beijing</li>
+  <li>I'm now a professor at the Chinese Academy of Sciences. I play with computational math.</li>
+  <ul>
+    <li>Suffice it to say, I know very little about what's involved (<i>focus is the last thing I can do</i>).</li>
+  </ul>
+  <li>Sometimes I do photography. I benefited a lot from the work of Hiroshi Sugimoto and Yoshihiko Ueda.</li>
+  <li>I greatly appreciate the sense of order found in modernist architecture, starting from Le Corbusier.
+      I'm an enthusiast of Tchaikovsky. I'm obsessed with Li Juan's books lately.</li>
+  <li>Studying and working in Europe (mostly Germany) changed me forever, but the more I realize that I am
+      a pure oriental from bones.</li>
 </ul>
 
-**Things I've been interested in lately**
+**Things I have been working on**
 <ul>
-  <li>Different languages as different worlds</li>
-  <li>The ultimate between man, machine, and computing power</li>
-  <li>Taking pictures with Shōji Ueda's mindset</li>
-  <li>Why China produces cybersecurity experts</li>
-  <li>Microeconomics as a many-agent system</li>
+  <li>Mesoscopic science: discovering multi-scale physics from atom to continuum through theoretical and
+      numerical modeling.</li>
+  <li>Data-driven approaches: Integrating scientific machine learning and uncertainty quantification to
+      transform stochastic data into reliable knowledge.</p>
+  <li><a href="https://github.com/vavrines/Kinetic.jl">Kinetic.jl</a>: an open-source toolbox for fusing
+      fluid dynamics and machine learning.</p>
 </ul>
+
+**Things that intrigue me**
+<ul>
+  <li>Different languages as different worlds, <a
+          href="https://en.wikipedia.org/wiki/Writing_Degree_Zero">Roland Barthes' <i>Writing Degree
+              Zero</i></a></li>
+  <li>The ultimate between man, machine, and computing power, <a href="https://ia.samaltman.com/">Sam
+          Altman's blog</a></li>
+  <li>Taking pictures with Shōji Ueda's mindset, <a
+          href="https://placartphoto.com/book/4067/warabe_goyomi_-_children_the_year_around">植田正治,
+          《小传记》</a></li>
+  <li>Why China produces cybersecurity experts</li>
+  <li>Microeconomics as a many-agent system, <a
+          href="https://publications.rwth-aachen.de/record/712359/files/712359.pdf">Torsten Trimborn's
+          thesis</a></li>
+</ul>
+
+**My online handles**
+
+<a href="https://people.ucas.edu.cn/~txiao">University of CAS</a>, <a
+    href="https://scholar.google.com/citations?user=wFTQeXwAAAAJ&hl=en">Google Scholar</a>, <a
+    href="https://github.com/vavrines">GitHub</a>, <a
+    href="https://www.zhihu.com/people/xiao-tian-bai">Zhihu</a>, <a
+    href="https://www.instagram.com/vavrines/">Instagram</a>, <a
+    href="https://xiaotianbai.com/blog/">Blog</a>, <a
+    href="https://txiao.notion.site/Murmur-d24064bcbd09468096349055ffa0439d">Murmuring</a>, <a
+    href="mailto:tianbaixiao@gmail.com">Email</a>
 
 _Write me an <a href='mailto:i@xiaotianbai.com'>email</a> if you are interested in anything._
 
