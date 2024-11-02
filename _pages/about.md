@@ -30,25 +30,24 @@ image:
   <li>Mesoscopic science: discovering multi-scale physics from atom to continuum through theoretical and
       numerical modeling.</li>
   <li>Data-driven approaches: Integrating scientific machine learning and uncertainty quantification to
-      transform stochastic data into reliable knowledge.</p>
+      transform stochastic data into reliable knowledge.</li>
   <li><a href="https://github.com/vavrines/Kinetic.jl">Kinetic.jl</a>: an open-source toolbox for fusing
-      fluid dynamics and machine learning.</p>
+      fluid dynamics and machine learning.</li>
 </ul>
 
-**Things that intrigue me**
+**Things that intrigue me lately**
 <ul>
-  <li>Different languages as different worlds, <a
-          href="https://en.wikipedia.org/wiki/Writing_Degree_Zero">Roland Barthes' <i>Writing Degree
-              Zero</i></a></li>
+  <li>Different languages as different worlds, <a href="https://en.wikipedia.org/wiki/Writing_Degree_Zero">
+    Roland Barthes' <i>Writing Degree Zero</i></a></li>
   <li>The ultimate between man, machine, and computing power, <a href="https://ia.samaltman.com/">Sam
-          Altman's blog</a></li>
+    Altman's blog</a></li>
   <li>Taking pictures with Shōji Ueda's mindset, <a
-          href="https://placartphoto.com/book/4067/warabe_goyomi_-_children_the_year_around">植田正治,
-          《小传记》</a></li>
+    href="https://placartphoto.com/book/4067/warabe_goyomi_-_children_the_year_around">植田正治,
+    小传记》</a></li>
   <li>Why China produces cybersecurity experts</li>
   <li>Microeconomics as a many-agent system, <a
-          href="https://publications.rwth-aachen.de/record/712359/files/712359.pdf">Torsten Trimborn's
-          thesis</a></li>
+    href="https://publications.rwth-aachen.de/record/712359/files/712359.pdf">Torsten Trimborn's
+    thesis</a></li>
 </ul>
 
 **My online handles**
